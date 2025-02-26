@@ -6,7 +6,6 @@ I am a **Computer Science and Engineering (CSE)** student specializing in **Arti
 
 ## 💻 Tech Stack
 - **Languages**: Python, Java, JavaScript, HTML, CSS.
-- **Frameworks & Libraries**: React, Tailwind CSS.
 - **Tools & Platforms**: GitHub, Netlify, ESP32.
 - **Interests**: AI/ML, Competitive Programming, Robotics, Web Dev.
 
@@ -20,12 +19,7 @@ I am a **Computer Science and Engineering (CSE)** student specializing in **Arti
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadarqam&layout=compact&theme=radical)
 
 ## 🎯 Fun Facts
-- 🚀 I enjoy **solving DSA problems** and building **cool projects**.
 - 🎬 Huge fan of **Sci-Fi movies and Marvel comics**.
 - 🏎️ Love discussing **automobiles and F1 racing**.
 
-## ✨ Contributions & Open Source
-I'm always open to collaborating on **open-source projects** and **hackathons**. Let's build something amazing together!
-
 ---
-_🚀 Keep coding and keep innovating!_ 😊
